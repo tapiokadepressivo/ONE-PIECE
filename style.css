@@ -19,7 +19,7 @@ body {
 }
 
 #conteudo {
-	background: #c5c5b2;
+	background: #8B0000;
 	padding: 10px;
 }
 
@@ -30,15 +30,15 @@ body {
 }
 #rodape {
 	text-align: center;
-	color: #FFFFFF;
+	color: #FFD700;
 }
 
 .img-campanha {
-	border: 10px solid #868A08;
+	border: 10px solid #DEB887;
 }
 
 .img-contato {
-	border: 10px solid #868A08;
+	border: 10px solid #000000;
 }
 
 a { /*Formatação dos links*/
